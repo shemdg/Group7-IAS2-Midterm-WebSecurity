@@ -164,9 +164,9 @@ CREATE TABLE `system_info` (
 INSERT INTO `system_info` (`id`, `meta_field`, `meta_value`) VALUES
 (1, 'name', 'Student Information System'),
 (6, 'short_name', 'SIS - PHP'),
-(11, 'logo', 'uploads/logo-1643245863.png'),
+(11, 'logo', 'uploads/grc logo.png'),
 (13, 'user_avatar', 'uploads/user_avatar.jpg'),
-(14, 'cover', 'uploads/cover-1643245863.png');
+(14, 'cover', 'uploads/grc.png');
 
 -- --------------------------------------------------------
 
